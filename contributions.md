@@ -20,8 +20,8 @@ Point form is fine, but you should use the following format:
 
 ## Things that went well
 
-- What went well throughout the team mini-project experience?
+- Creating and sticking to a time line.
 
 ## Things that went poorly
 
-- What went poorly throughout the team mini-project experience?
+- Still not super clear on how to PR review .ipynb files.
