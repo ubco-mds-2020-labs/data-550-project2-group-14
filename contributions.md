@@ -13,11 +13,13 @@ Point form is fine, but you should use the following format:
 ### Nathan Smith's Contributions
 
 - Initial EDA workbook setup including Steps 1-4
-- Figures 1-3 in EDA Step 7
+- Figures 1,2,4 in EDA Step 7
 
-### {{Name of Partner 1}'s Role
+### Mitch Harris's Role
 
-- A few sentences about the main contributions of {Name of Partner 2}
+- Figures 3 & 5 in EDA Step 7
+- Searched for good data sets
+- One research question & couple initial thoughts
 
 ## Things that went well
 
